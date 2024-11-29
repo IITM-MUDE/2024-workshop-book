@@ -79,4 +79,6 @@ parts:
   - caption: Test
     chapters:
     - file: test.ipynb
-    - file: test2
+    - file: test2.ipynb
+    - file: test1.ipynb
+    - file: test2.md
