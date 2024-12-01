@@ -54,6 +54,31 @@ parts:
         title: Files and Folders
       - file: programming/week_1_1/warmup
         title: Python Warmup
+    - file: programming/week_1_2
+    - file: programming/week_1_3
+      sections:
+      - file: programming/learn-programming/install/ide/vsc/vs_live_share
+    - file: programming/week_1_4
+      sections:
+      - file: programming/learn-programming/version_control/version_control
+      - file: programming/learn-programming/install/git/intro
+        title: Install git
+      - file: programming/learn-programming/workflows/git/intro
+        title: Git workflow
+        sections:
+        - file: programming/learn-programming/workflows/git/github
+          sections:
+          - file: programming/learn-programming/workflows/git/commits_remote
+        - file: programming/learn-programming/workflows/git/vscode
+          sections:
+          - file: programming/learn-programming/workflows/git/cloning
+          - file: programming/learn-programming/workflows/git/commits_local
+          - file: programming/learn-programming/workflows/git/fetch_pull
+    - file: programming/week_1_5
+      sections:
+      - file: programming/learn-programming/workflows/git/branch_merge
+      - file: programming/learn-programming/workflows/git/forking
+      - file: programming/learn-programming/workflows/git/merge_conflicts
 
   - caption: Fundamental Concepts
     numbered: 2
